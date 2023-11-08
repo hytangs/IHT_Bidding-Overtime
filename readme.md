@@ -1,5 +1,5 @@
 
-## IHT & FYP Code Package
+## IHT/FYP Repository
 
 
 **Thesis Title:**
@@ -8,11 +8,21 @@
 **Author:**
 > Tang Hanyang
 
-**Credentials:**
->- Bachelor of Social Sciences (Honours) and Bachelor of Sciences (Honours)
->- Department of Information Systems and Analytics
->- School of Computing, National University of Singapore
->- January 2023 - November 2023
+**About:**
+> The integrated graduation thesis & project under National University of Singapore:
+>- Department of Economics, Faculty of Arts & Social Sciences: 
+>  - Integrated Honours Thesis (IHT)
+>  - For Bachelor of Social Sciences (Honours)
+>  - Supervisor: Prof. Lu Jingfeng
+>
+> 
+>- Department of Information Systems and Analytics, School of Computing
+>  - Final Year Project (FYP)
+>  - Bachelor of Sciences (Honours)
+>  - Supervisor: A/P Zhai Yingda
+>
+> 
+>- Timeframe: January 2023 - November 2023
 
 **Abstract:**
 >The paper studies the impact of bidding overtime in online art auctions. We identify two contrasting overtime bidding 
@@ -24,9 +34,17 @@
   discusses whether these effects apply to lower-value eBay auctions and physical auctions.
 
 
-## Contents of the Code Package
+## Contents of the Repository
 
-### Online Art Auction Dataset
+### Deliverables
+-  Final Report [Public]
+    >  📕 thesis / [final_report_public.pdf](thesis/final_report_public.pdf)
+    >
+    > This is the public release of the final report on the analysis of bidding overtime and the optimal policies 
+    theoretically and empirically.
+
+
+### Online Art Auction Dataset on Overtime
 - Full Dataset [Public]
   >  📊 public_data / [1_public_full_dataset.xlsx](public_data/1_public_full_dataset.xlsx)
   >
@@ -45,7 +63,7 @@
   > from the 3-minute overtime items (over-abundant) cut to half. This dataset includes expert scores and expert recommended items.
   > It is the dataset used for reduced form analysis.
 
-- Raw Data Records from Each Auction [Private]
+- Raw Data Records from Each Auction [Confidential]
   >  🔒 data / special / *
   > 
   >  🔒 data / standard / *
