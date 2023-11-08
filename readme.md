@@ -10,19 +10,20 @@
 
 **About:**
 > The integrated graduation thesis & project under National University of Singapore:
->- Department of Economics, Faculty of Arts & Social Sciences: 
+>
+>  Department of Economics, Faculty of Arts & Social Sciences: 
 >  - Integrated Honours Thesis (IHT)
 >  - For Bachelor of Social Sciences (Honours)
 >  - Supervisor: Prof. Lu Jingfeng
 >
 > 
->- Department of Information Systems and Analytics, School of Computing
+>  Department of Information Systems and Analytics, School of Computing
 >  - Final Year Project (FYP)
 >  - Bachelor of Sciences (Honours)
 >  - Supervisor: A/P Zhai Yingda
 >
 > 
->- Timeframe: January 2023 - November 2023
+> Timeframe: January 2023 - November 2023
 
 **Abstract:**
 >The paper studies the impact of bidding overtime in online art auctions. We identify two contrasting overtime bidding 
@@ -38,7 +39,8 @@
 
 ### Deliverables
 -  Final Report [Public]
-    >  📕 thesis / [final_report_public.pdf](thesis/final_report_public.pdf)
+
+    >  📕 report / [final_report_public.pdf](report/final_report_public.pdf)
     >
     > This is the public release of the final report on the analysis of bidding overtime and the optimal policies 
     theoretically and empirically.
