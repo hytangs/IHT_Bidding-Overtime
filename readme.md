@@ -13,13 +13,13 @@
 >
 >  Department of Economics, Faculty of Arts & Social Sciences: 
 >  - Integrated Honours Thesis (IHT)
->  - For Bachelor of Social Sciences (Honours)
+>  - For Bachelor of Social Sciences (Honours) in Economics
 >  - Supervisor: Prof. Lu Jingfeng
 >
 > 
 >  Department of Information Systems and Analytics, School of Computing
 >  - Final Year Project (FYP)
->  - Bachelor of Sciences (Honours)
+>  - For Bachelor of Sciences (Honours) in Business Analytics
 >  - Supervisor: A/P Zhai Yingda
 >
 > 
